@@ -24,9 +24,6 @@ colorset='\033[0m'
 termux-open-url  https://youtube.com/@dragonflybyte?si=omLGgDpb5aN8uTbT
 
 sleep 10 
-
-termux-open-url https://t.me/+wR5rLHiSgbw1N2Ex
-
 clear 
 sleep 4
 
